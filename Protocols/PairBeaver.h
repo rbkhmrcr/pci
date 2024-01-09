@@ -12,7 +12,7 @@ using namespace std;
 
 #include "Replicated.h"
 #include "Processor/Data_Files.h"
-#include "bls/blsElement.h"
+#include "sps/spsElement.h"
 #include "Protocols/Share.h"
 
 
